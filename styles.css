@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+  padding: 10px 0;
+}
+
+.marker {
+  width: 200px;
+  height: 25px;
+  margin: 10px auto;
+}
+
+.cap {
+  width: 60px;
+  height: 25px;
+}
